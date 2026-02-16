@@ -23,6 +23,9 @@ The app allows users to enter their name and birthday and shows how many days ar
 - Add age calculator
 - Add background themes
 - Deploy the app online
+  
+## Screenshot
+![Birthday App] (screenshot.png)
 
 ## Author
 Gomathi
